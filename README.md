@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousliem" alt="anonymousliem" /> </p>
 
-- 👨‍💻 I'm Google Developer Student Club Lead 2020 Chapter [Diponegoro University] (https://dsc.community.dev/universitas-diponegoro/)
+- 👨‍💻 I'm Google Developer Student Club Lead 2020 Chapter [Diponegoro University](https://dsc.community.dev/universitas-diponegoro/)
 - ☁️ I’m currently focus in Cloud Computing expecially Goocle Cloud Platform
 - 🖥️ I'm usually coding with javascript and golang
 
