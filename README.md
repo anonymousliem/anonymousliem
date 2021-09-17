@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="http://anonymousliem.github.io/" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -21,7 +20,6 @@
 
 [<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="Golang" width="40" height="40" src="https://user-images.githubusercontent.com/38047246/118352145-0a6d9480-b58a-11eb-8ebf-b88f78a6bdb7.png" />][golang]
-[<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Docker" width="40" height="40" src="https://user-images.githubusercontent.com/38047246/118352543-3853d880-b58c-11eb-92b1-176b03e7f3c1.png" />][docker]
 [<img align="left" alt="Kurbenetes" width="40" height="40" src="https://user-images.githubusercontent.com/38047246/118352673-d647a300-b58c-11eb-8e67-de2fb27f5296.png" />][kurbenetes]
 [<img align="left" alt="ansible" width="40" height="40" src="https://user-images.githubusercontent.com/38047246/127848150-3f9fc742-60c4-432e-ac16-86e847a429fc.png" />][ansible]
